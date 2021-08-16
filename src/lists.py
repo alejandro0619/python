@@ -5,6 +5,7 @@ friends = ["kevin", "karen", "Jim"]
 friends[0] # will print out kevin 
 friends[-1] # will print out Jim
 friends[1:] # will print from karen on
+
 friends[0:1] # will print from kevin to karen
 friends[2] = "Juan" # modify elements
 
