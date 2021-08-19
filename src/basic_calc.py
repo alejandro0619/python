@@ -11,6 +11,6 @@ def calculator():
   elif op == '/':
     return round(num1 + num2)
   else:
-    return 'Idk'
+    return print('Enter a valid operator')
 
 print(calculator()) 
